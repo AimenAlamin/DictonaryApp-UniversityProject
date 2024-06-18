@@ -1,16 +1,7 @@
-# flutter_application_18
+# English-Turkish Learning App | University Project
 
-A new Flutter project.
+Developed an application that allows users to create a personal dictionary by entering newly learned English words with their Turkish meanings and associated photos. The app facilitates easy retrieval and review of saved words. Built using Flutter and Sqflite for local data storage.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://github.com/AimenAlamin/DictonaryApp-UniversityProject/assets/154593969/fb8f05dd-5162-46fe-867d-2b8f7cbba828
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
